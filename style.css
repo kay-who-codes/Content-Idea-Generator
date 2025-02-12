@@ -1,0 +1,55 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #1a1a1a;
+  color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Container Styling */
+.container {
+  text-align: center;
+  background-color: #2a2a2a;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Heading Styling */
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Generated Sentence Styling */
+#generated-sentence {
+  font-size: 1.2rem;
+  margin: 1.5rem 0;
+  color: #d1d1d1;
+}
+
+/* Button Styling */
+#generate-btn {
+  background-color: #f15622;
+  color: #fff;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#generate-btn:hover {
+  background-color: #D44A1B;
+}
