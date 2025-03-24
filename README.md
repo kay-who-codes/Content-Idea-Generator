@@ -1,4 +1,4 @@
-# Content Idea Generator
+# 💡 Content Idea Generator
 
 A simple web app that generates random post ideas for content creators, bloggers, and anyone in need of inspiration.
 
