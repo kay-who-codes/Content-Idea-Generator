@@ -53,3 +53,7 @@ h1 {
 #generate-btn:hover {
   background-color: #D44A1B;
 }
+
+#generated-sentence {
+  white-space: pre-line;
+}
